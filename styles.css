@@ -1,0 +1,16 @@
+.counter-div {
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: red;
+}
+
+img {
+  width: 10%;
+}
